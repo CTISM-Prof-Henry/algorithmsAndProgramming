@@ -5,7 +5,7 @@ Tecnologia em Redes de Computadores em 2022, no CTISM.
 
 ## Sumário
 
-* [Características da disciplina]
+* [Características da disciplina](#características-da-disciplina)
 * [Diferença entre ementa, programa da disciplina e plano de ensino](#diferença-entre-ementa-programa-da-disciplina-e-plano-de-ensino)
 * [Conteúdos](#conteúdos)
 * [Cronograma](#cronograma)
