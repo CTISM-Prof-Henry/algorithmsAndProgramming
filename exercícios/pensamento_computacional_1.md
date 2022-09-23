@@ -89,5 +89,5 @@ flowchart TD
     inicio --> chao_limpo -- "sim" --> fim
     chao_limpo -- "não" --> parede
     parede -- "sim" --> gira_1 --> anda_2 --> gira_2 --> chao_limpo
-    parede -- "não" --> anda_1 --> balanca --> chao_limpo
+    parede -- "não" --> anda_1 --> balanca --> parede
 ```
