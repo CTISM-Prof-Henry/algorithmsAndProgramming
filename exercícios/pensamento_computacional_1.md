@@ -2,9 +2,7 @@
 
 Para realizar os seguintes exercícios, é recomendado usar papel, lápis e/ou caneta.
 
-## Exercícios
-
-### Exercício 1
+## Exercício 1
 
 Utilizando descrição **textual**, resolva cada um dos problemas propostos abaixo. Tente ser o mais específico 
 possível, de maneira que uma pessoa que leia seu texto seja capaz de reproduzir os passos, sem precisar lhe perguntar
@@ -69,7 +67,7 @@ Para cada uma das tarefas, não se esqueça também de levantar as informações
     <img src="../imagens/avião.jpg" width="400px">     
 
 
-### Exercício 2
+## Exercício 2
 
 Para cada um dos algoritmos desenvolvidos no [Exercício 1](#exercício-1), converta-os para linguagem de fluxograma.
 

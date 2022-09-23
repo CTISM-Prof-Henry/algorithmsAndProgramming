@@ -9,6 +9,7 @@ Tecnologia em Redes de Computadores em 2022, no CTISM.
 * [Diferença entre ementa, programa da disciplina e plano de ensino](#diferença-entre-ementa-programa-da-disciplina-e-plano-de-ensino)
 * [Conteúdos](#conteúdos)
 * [Cronograma](#cronograma)
+* [Exercícios](#exercícios)
 * [Recursos adicionais](#recursos-adicionais)
 * [Bibliografia](#bibliografia)
 
@@ -65,6 +66,10 @@ Em breve.
 ## Cronograma
 
 Em breve.
+
+## Exercícios
+
+* [Pensamento Computacional](exercícios/pensamento_computacional_1.md)
 
 ## Recursos Adicionais
 
