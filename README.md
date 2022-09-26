@@ -70,6 +70,7 @@ Em breve.
 ## Exercícios
 
 * [Pensamento Computacional](exercícios/pensamento_computacional_1.md)
+* [Blocky Games (externo)](https://blockly-games.appspot.com/)
 
 ## Recursos Adicionais
 
