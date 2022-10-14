@@ -72,6 +72,7 @@ Em breve.
 * [Pensamento Computacional](exercícios/pensamento_computacional_1.md)
 * [Blocky Games (externo)](https://blockly-games.appspot.com/)
 * [Entrada e saída](exercícios/entrada_e_saida.md)
+* [Desvio condicional](exercícios/desvio_condicional.md)
 
 ## Recursos Adicionais
 
