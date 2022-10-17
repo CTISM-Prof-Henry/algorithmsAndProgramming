@@ -6,7 +6,7 @@ Estes exercícios foram adaptados do [PythonBrasil](https://wiki.python.org.br/E
 2. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 3. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 4. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-    * o produto do dobro do primeiro com metade do segundo .
+    * o produto do dobro do primeiro com metade do segundo.
     * a soma do triplo do primeiro com o terceiro.
     * o terceiro elevado ao cubo.
 5. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o

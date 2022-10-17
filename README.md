@@ -77,7 +77,7 @@ Em breve.
 
 ## Recursos Adicionais
 
-Em breve.
+* [Apostila de Programação em C (professor Cezar Pozer)](http://www-usr.inf.ufsm.br/~pozzer/disciplinas/la.rar)
 
 ## Bibliografia 
 
