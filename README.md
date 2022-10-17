@@ -73,6 +73,7 @@ Em breve.
 * [Blocky Games (externo)](https://blockly-games.appspot.com/)
 * [Entrada e saída](exercícios/entrada_e_saida.md)
 * [Desvio condicional](exercícios/desvio_condicional.md)
+* [Tabela Verdade](https://github.com/CTISM-Prof-Henry/c_exercises_list_1/)
 
 ## Recursos Adicionais
 
