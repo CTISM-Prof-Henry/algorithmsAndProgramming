@@ -74,6 +74,7 @@ Em breve.
 * [Entrada e saída](exercícios/entrada_e_saida.md)
 * [Desvio condicional](exercícios/desvio_condicional.md)
 * [Tabela Verdade](https://github.com/CTISM-Prof-Henry/c_exercises_list_1/)
+* [Laços de repetição](exercícios/laços.md)
 
 ## Recursos Adicionais
 
