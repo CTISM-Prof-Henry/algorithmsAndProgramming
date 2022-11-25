@@ -1,5 +1,7 @@
 # Laços de Repetição
 
+O gabarito das questões está [aqui](laços).
+
 1. Escreva um código-fonte que imprime a [sequência de Fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci) 
    do primeiro até o `n`-ésimo número, onde `n` é lido do teclado. Lembrando que o primeiro número de Fibonacci é 1,
    o segundo número de Fibonacci é 1, e todos os números subsequentes são a soma dos dois números de Fibonacci 
