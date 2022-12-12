@@ -75,6 +75,7 @@ Em breve.
 * [Desvio condicional](exercícios/desvio_condicional.md)
 * [Tabela Verdade](https://github.com/CTISM-Prof-Henry/c_exercises_list_1/)
 * [Laços de repetição](exercícios/laços.md)
+* [Vetores](exercícios/vetores.md)
 
 ## Recursos Adicionais
 
