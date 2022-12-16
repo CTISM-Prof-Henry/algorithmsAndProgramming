@@ -1,6 +1,6 @@
 # Exercícios Pensamento Computacional
 
-Para realizar os seguintes exercícios, é recomendado usar papel, lápis e/ou caneta.
+Para realizar os seguintes exercícios, é recomendado usar papel, lápis ou caneta.
 
 ## Exercício 1
 

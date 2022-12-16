@@ -1,7 +1,5 @@
 # Exercícios entrada e saída
 
-Estes exercícios foram adaptados do [PythonBrasil](https://wiki.python.org.br/EstruturaSequencial).
-
 1. Faça um Programa que peça dois números e imprima a soma.
 2. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 3. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
@@ -24,3 +22,7 @@ Estes exercícios foram adaptados do [PythonBrasil](https://wiki.python.org.br/E
     - Sindicato ( 5%) : R$
     = Salário Liquido : R$
     ```
+
+## Bibliografia
+
+Alguns exercícios foram adaptados do [PythonBrasil](https://wiki.python.org.br/EstruturaSequencial).

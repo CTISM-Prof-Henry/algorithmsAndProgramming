@@ -13,3 +13,15 @@ O gabarito das questões está [aqui](vetores).
    ```c
    int vec[10] = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4}; 
    ```
+
+6. Escreva um código-fonte para encontrar o maior e o menor elemento de um vetor.
+7. Escreva um código-fonte para ordenar os elementos de um vetor em ordem crescente.
+8. Escreva um código-fonte para mesclar dois vetores de mesmo tamanho, e ordená-los em ordem crescente.
+9. Escreva um código-fonte que, dado um vetor de entrada, cria dois novos vetores, um apenas com os números pares e outro
+   com apenas os números ímpares.
+10. Escreva um código-fonte para inserir um novo valor em um vetor pré-alocado, e ordená-lo em ordem crescente.
+
+
+## Bibliografia
+
+Alguns exercícios foram adaptados do [w3resource](https://www.w3resource.com/c-programming-exercises/).

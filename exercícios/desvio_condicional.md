@@ -1,8 +1,5 @@
 # Exercícios desvio condicional
 
-Estes exercícios foram adaptados do 
-[w3resource](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php).
-
 1. Escreva um programa em C que aceite dois inteiros e verifique se eles são iguais ou não.
 2. Escreva um programa em C para verificar se um determinado número é par ou ímpar.
 3. Escreva um programa em C para verificar se um determinado número é positivo ou negativo.
@@ -15,3 +12,7 @@ Estes exercícios foram adaptados do
 8. Escreva um programa em C para verificar se um triângulo é equilátero, isósceles ou escaleno.
 9. Escreva um programa em C para verificar se um triângulo pode ser formado pelo valor dado para os ângulos.
 10. Escreva um programa em C para verificar se um caractere é uma letra, um número ou um caractere especial.
+
+## Bibliografia
+
+Alguns exercícios foram adaptados do [w3resource](https://www.w3resource.com/c-programming-exercises/).

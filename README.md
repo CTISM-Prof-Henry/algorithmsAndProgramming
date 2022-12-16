@@ -52,6 +52,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Tabela Verdade](https://github.com/CTISM-Prof-Henry/c_exercises_list_1/)
 * [Laços de repetição](exercícios/laços.md)
 * [Vetores](exercícios/vetores.md)
+* [Strings](exercícios/strings.md)
 
 ## Recursos Adicionais
 

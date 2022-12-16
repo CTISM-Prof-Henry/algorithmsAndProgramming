@@ -33,3 +33,7 @@ O gabarito das questões está [aqui](laços).
     1 1 1 1 0
     1 1 1 1 1
     ```
+
+## Bibliografia
+
+Alguns exercícios foram adaptados do [w3resource](https://www.w3resource.com/c-programming-exercises/).
