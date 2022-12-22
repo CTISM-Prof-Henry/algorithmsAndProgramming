@@ -43,6 +43,10 @@ Disponível no link https://www.ufsm.br/ementario/disciplinas/DPADI0172
 > Compreender a lógica de programação. Conhecer e desenvolver algoritmos usando desvios, laços de repetição, entrada 
 e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na linguagem C.
 
+## Resumos
+
+* [Strings](resumos/strings.md)
+
 ## Exercícios
 
 * [Pensamento Computacional](exercícios/pensamento_computacional_1.md)
