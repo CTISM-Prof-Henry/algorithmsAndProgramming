@@ -47,6 +47,10 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 
 * [Strings](resumos/strings.md)
 
+## Vídeos
+
+* [Strings](https://youtu.be/dO-F8HD2zhg)
+
 ## Exercícios
 
 * [Pensamento Computacional](exercícios/pensamento_computacional_1.md)
@@ -58,7 +62,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Vetores](exercícios/vetores.md)
 * [Strings](exercícios/strings.md)
 
-## Recursos Adicionais
+## Recursos Externos
 
 * [Apostila de Programação em C (professor Cezar Pozer)](http://www-usr.inf.ufsm.br/~pozzer/disciplinas/la.rar)
 
