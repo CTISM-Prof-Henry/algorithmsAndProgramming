@@ -46,10 +46,13 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 ## Resumos
 
 * [Strings](resumos/strings.md)
+* [Vetores e Matrizes](resumos/vetores_e_matrizes.md)
 
 ## Vídeos
 
 * [Strings](https://youtu.be/dO-F8HD2zhg)
+* [Vetores e Matrizes](https://youtu.be/se-2_zh7ePE)
+
 
 ## Exercícios
 
@@ -62,7 +65,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Vetores](exercícios/vetores.md)
 * [Strings](exercícios/strings.md)
 
-## Recursos Externos
+## Recursos adicionais
 
 * [Apostila de Programação em C (professor Cezar Pozer)](http://www-usr.inf.ufsm.br/~pozzer/disciplinas/la.rar)
 
