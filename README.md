@@ -47,11 +47,13 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 
 * [Strings](resumos/strings.md)
 * [Vetores e Matrizes](resumos/vetores_e_matrizes.md)
+* [Estruturas](resumos/estruturas.md)
 
 ## Vídeos
 
 * [Strings](https://youtu.be/dO-F8HD2zhg)
 * [Vetores e Matrizes](https://youtu.be/se-2_zh7ePE)
+* [Estruturas](https://youtu.be/4AJnGC3LEjs)
 
 
 ## Exercícios
