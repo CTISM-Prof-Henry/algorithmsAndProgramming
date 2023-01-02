@@ -1,9 +1,11 @@
 #include <stdio.h>
 
+#define LENGTH 32
+
 int main() {
-    char buffer[32];
+    char buffer[LENGTH];
     printf("digite uma frase: ");
-    fgets(buffer, sizeof buffer, stdin);
+    fgets(buffer, LENGTH, stdin);
 
     printf("a frase digitada foi:\n");
     printf("%s\n", buffer);

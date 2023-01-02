@@ -1,17 +1,18 @@
 #include <stdio.h>
 
 #define N_CHARS 256
+#define LENGTH 32
 
 int main() {
-    char buffer[32];
-    int count[256];
+    char buffer[LENGTH];
+    int count[N_CHARS];
 
     for(int i = 0; i < N_CHARS; i++) {
         count[i] = 0;
     }
 
     printf("digite uma frase: ");
-    fgets(buffer, sizeof buffer, stdin);
+    fgets(buffer, LENGTH, stdin);
 
     int j = 0;
     while(buffer[j] != '\0') {

@@ -1,12 +1,14 @@
 #include <stdio.h>
 
+#define LENGTH 32
+
 int main() {
-    char bufferA[32];
-    char bufferB[32];
+    char bufferA[LENGTH];
+    char bufferB[LENGTH];
     printf("digite a primeira frase: ");
-    fgets(bufferA, sizeof bufferA, stdin);
+    fgets(bufferA, LENGTH, stdin);
     printf("digite a segunda frase: ");
-    fgets(bufferB, sizeof bufferB, stdin);
+    fgets(bufferB, LENGTH, stdin);
 
     int i = 0;
     int j = 0;
