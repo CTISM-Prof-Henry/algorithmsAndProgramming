@@ -33,7 +33,7 @@
       printf("digite um texto:\n");
       // o texto a ser digitado será
       // "o rato roeu a roupa do rei de roma"
-      fgets(buffer, sizeof buffer, stdin);  // funciona, lê até "o rato ro"
+      fgets(buffer, sizeof buffer, stdin);  // funciona, lê até "o ra"
   
       gets(buffer);                         // não funciona: programa dá crash pois  
                                             // escreveu além da memória alocada
