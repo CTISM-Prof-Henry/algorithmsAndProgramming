@@ -66,6 +66,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Laços de repetição](exercícios/laços.md)
 * [Vetores](exercícios/vetores.md)
 * [Strings](exercícios/strings.md)
+* [Biblioteca string.h](exercícios/biblioteca_string.md)
 
 ## Recursos adicionais
 
