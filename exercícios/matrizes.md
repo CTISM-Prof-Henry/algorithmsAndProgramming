@@ -1,6 +1,6 @@
 # Matrizes
 
-O gabarito das questões está aqui (matrizes).
+O gabarito das questões está [aqui](matrizes).
 
 1. Escreva um código-fonte que imprime uma matriz 3x3 de zeros.
 2. Escreva um código-fonte que imprime uma matriz 5x5 de uns.
