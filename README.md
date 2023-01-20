@@ -48,6 +48,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Strings](resumos/strings.md)
 * [Vetores e Matrizes](resumos/vetores_e_matrizes.md)
 * [Estruturas](resumos/estruturas.md)
+  * [Alinhamento](resumos/alinhamento.md)
 
 ## Vídeos
 
