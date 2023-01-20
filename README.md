@@ -54,6 +54,7 @@ e saída e conjuntos homogêneos e heterogêneos. Implementar os algoritmos na l
 * [Strings](https://youtu.be/dO-F8HD2zhg)
 * [Vetores e Matrizes](https://youtu.be/se-2_zh7ePE)
 * [Estruturas](https://youtu.be/4AJnGC3LEjs)
+  * [Alinhamento de dados](https://www.youtube.com/watch?v=TtAsN0ptKcw) (em inglês)
 
 
 ## Exercícios
